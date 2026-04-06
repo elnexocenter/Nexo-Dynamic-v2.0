@@ -70,7 +70,7 @@ El uso de Nexo Dynamic v2.0 implica la modificación de parámetros críticos de
 <p align="center">
   <img src="https://raw.githubusercontent.com/DarioA-Dev/Preparar-paginas-web/main/imagenes/El-Nexo-perfil-staff.png" width="120px" style="border-radius: 10px;">
   <br>
-  <b>Desarrollado por El Nexo</b><br>
+  <b>Desarrollado por El Nexo, Founder Gonzalo Orozco.</b><br>
   <a href="https://elnexocenter.com/">elnexocenter.com</a>
 </p>
 
